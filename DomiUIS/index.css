@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(34, 192, 31);
+}
+#registro{
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgba(73, 223, 76, 0.985);
+}
+#tiendas{
+    color: antiquewhite;
+}
